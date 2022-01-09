@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL]()
-- [Live Site URL]()
+- [Solution URL](https://www.frontendmentor.io/solutions/htmlcss-stats-preview-card-component-4Cq5F7Gb3)
+- [Live Site URL](https://goofy-morse-8a3ade.netlify.app/)
 
 ## My process
 
